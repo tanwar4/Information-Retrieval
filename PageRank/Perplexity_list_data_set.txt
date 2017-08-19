@@ -1,0 +1,110 @@
+Iteration1
+perplexity  :  80012.16015420535
+Iteration2
+perplexity  :  86873.85751802546
+Iteration3
+perplexity  :  72745.8322851183
+Iteration4
+perplexity  :  75797.26897891371
+Iteration5
+perplexity  :  69517.15369996683
+Iteration6
+perplexity  :  71873.66527501497
+Iteration7
+perplexity  :  68400.16080007331
+Iteration8
+perplexity  :  70038.42468201184
+Iteration9
+perplexity  :  68007.49027902189
+Iteration10
+perplexity  :  69122.73181304021
+Iteration11
+perplexity  :  67830.86087577113
+Iteration12
+perplexity  :  68640.19743589486
+Iteration13
+perplexity  :  67760.8021685689
+Iteration14
+perplexity  :  68338.40923426286
+Iteration15
+perplexity  :  67751.95228734137
+Iteration16
+perplexity  :  68150.14886924601
+Iteration17
+perplexity  :  67751.25291831401
+Iteration18
+perplexity  :  68036.28052263251
+Iteration19
+perplexity  :  67756.98468398454
+Iteration20
+perplexity  :  67960.35448317054
+Iteration21
+perplexity  :  67767.21407851363
+Iteration22
+perplexity  :  67909.87287659023
+Iteration23
+perplexity  :  67775.75486680726
+Iteration24
+perplexity  :  67877.2373314033
+Iteration25
+perplexity  :  67782.67249044204
+Iteration26
+perplexity  :  67855.12554384382
+Iteration27
+perplexity  :  67788.71278196204
+Iteration28
+perplexity  :  67839.99284974595
+Iteration29
+perplexity  :  67793.38465737135
+Iteration30
+perplexity  :  67829.85091863327
+Iteration31
+perplexity  :  67796.87177349733
+Iteration32
+perplexity  :  67822.91431750327
+Iteration33
+perplexity  :  67799.58222760177
+Iteration34
+perplexity  :  67818.09692942418
+Iteration35
+perplexity  :  67801.61111883036
+Iteration36
+perplexity  :  67814.7991006918
+Iteration37
+perplexity  :  67803.09650800224
+Iteration38
+perplexity  :  67812.51366832892
+Iteration39
+perplexity  :  67804.20438419147
+Iteration40
+perplexity  :  67810.91870138404
+Iteration41
+perplexity  :  67805.01829058342
+Iteration42
+perplexity  :  67809.8087648412
+Iteration43
+perplexity  :  67805.61160696548
+Iteration44
+perplexity  :  67809.03363760455
+Iteration45
+perplexity  :  67806.04476550555
+Iteration46
+perplexity  :  67808.4887410736
+Iteration47
+perplexity  :  67806.36052774033
+Iteration48
+perplexity  :  67808.10677007145
+Iteration49
+perplexity  :  67806.58958950256
+Iteration50
+perplexity  :  67807.83802227212
+Iteration51
+perplexity  :  67806.75603603711
+Iteration52
+perplexity  :  67807.64866756291
+Iteration53
+perplexity  :  67806.8764662261
+Iteration54
+perplexity  :  67807.51505674468
+
+Probablity Sum  :  1.0000000000000917

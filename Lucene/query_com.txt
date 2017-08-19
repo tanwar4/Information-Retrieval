@@ -1,0 +1,9 @@
+Query Results Count Comparision Lucene Vs BM25
+
+           Lucene                                BM25
+Query 1:   440						       871		
+Query 2:   1579						      1632			
+Query 3:   272						      1386	           Query 4:   1529						      1540		
+
+
+ 

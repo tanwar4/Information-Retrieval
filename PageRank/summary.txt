@@ -1,0 +1,17 @@
+Total Nodes : 183811
+Total Source 14350
+Sink Size : 66175
+Value less than initial rank : 144318
+
+the proportion of pages with no in-links (sources) =>  0.07806932
+the proportion of pages with no out-links (sinks); =>  0.36001654
+the proportion of pages whose PageRank is less than their initial, uniform values.   =>   0.78514344
+
+The document WT21-B37-76   has the highest pagerank value and it can be understood from the fact that it is the homepage of a popular website and  many other pages have links to it, However only the number of inlinks to the particulal page is not only the deciding factor of the page rank and it can be verified by looking at the other pages in the list which have high page rank values but number of inlinks is relatively low as compared to other pages.
+
+Most of the pages with higher page ranks are actually Disclaimer pages and these are not interesting documents to the users in response to the user query but these are sink nodes and they have surprisingly high values .This may be due to reason that all pages have usually a link to Disclaiomer page.
+
+
+
+
+
